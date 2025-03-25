@@ -10,7 +10,7 @@
 ## À propos de moi  
 
 <p>  
-Je suis un développeur passionné avec une solide base en programmation et en développement Data/IA. J'ai suivi un bootcamp à l'école Microsoft Simplon, où j'ai été préparé aux métiers de développeur en Data et Intelligence Artificielle.  
+Je suis un développeur passionné avec une solide base en programmation et en développement Data/IA. J'ai suivi un SAS de pré-qualification à l'école Microsoft Simplon, où j'ai été préparé aux métiers de développeur en Data et Intelligence Artificielle.  
 
 J'ai ensuite poursuivi ma formation à l'École Microsoft Développeur DATA/IA, où j'ai acquis des compétences en Python, SQL et en outils de Data Science comme Pandas, NumPy et Scikit-learn. J'ai également travaillé avec des technologies Big Data (PySpark, Azure Data Lake) et développé des applications web avec Django et FastAPI.  
 
