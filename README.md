@@ -4,11 +4,15 @@
   <img src="https://i.imgur.com/ImgMbNV.gif" alt="GitHub Banner" width="100%">
 </div>
 
-<p align="center">
-I design and build <b>AI agents</b> and <b>Data/AI applications</b> in Python,  
-ranging from data processing to cloud deployment.  
-My goal: turning data into smart, concrete solutions.
-</p>
+<picture>
+  <!-- Dark theme -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/ImgMbNV.gif">
+  <!-- Light theme -->
+  <source media="(prefers-color-scheme: light)" srcset="https://YOUR-LIGHT-BANNER.gif">
+  <!-- Fallback -->
+  <img alt="GitHub Banner" src="https://YOUR-LIGHT-BANNER.gif" width="100%">
+</picture>
+
 
 ---
 
