@@ -27,7 +27,7 @@ My goal: turning data into smart, concrete solutions.
 Python • SQL • Pandas • NumPy • scikit-learn  
 
 **AI & Agents**  
-LangChain • LangGraph • MCP • NLP • RAG  
+LangChain • LangGraph • MCP • RAG • NLP • Vector Databases (FAISS, Chroma)  
 
 **Backend / APIs**  
 FastAPI • Django • OpenAPI • Auth • REST  
@@ -36,7 +36,7 @@ FastAPI • Django • OpenAPI • Auth • REST
 Azure (Data Lake, Container Apps) • AWS (S3/Lambda) • Docker  
 
 **Databases**  
-PostgreSQL • MySQL • SQLite • FAISS/Chroma (vector stores)  
+PostgreSQL • MySQL • SQLite  
 
 ---
 
@@ -61,6 +61,7 @@ PostgreSQL • MySQL • SQLite • FAISS/Chroma (vector stores)
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">  
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker badge">  
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="Azure badge">  
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS badge">  
 </p>  
 
 ### Languages & Data Science  
@@ -79,6 +80,15 @@ PostgreSQL • MySQL • SQLite • FAISS/Chroma (vector stores)
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django badge">  
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI badge">  
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" alt="Streamlit badge">  
+</p>  
+
+### AI Agents & Orchestration  
+<p align="center">  
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white&style=for-the-badge" alt="LangChain badge">  
+  <img src="https://img.shields.io/badge/LangGraph-000000?logo=graph&logoColor=white&style=for-the-badge" alt="LangGraph badge">  
+  <img src="https://img.shields.io/badge/MCP-111111?logo=protocol&logoColor=white&style=for-the-badge" alt="MCP badge">  
+  <img src="https://img.shields.io/badge/FAISS-2C3E50?logo=database&logoColor=white&style=for-the-badge" alt="FAISS badge">  
+  <img src="https://img.shields.io/badge/Chroma-4C2A85?logo=database&logoColor=white&style=for-the-badge" alt="Chroma badge">  
 </p>  
 
 ---
