@@ -93,14 +93,3 @@ PostgreSQL • MySQL • SQLite • FAISS/Chroma (vector stores)
 </p>  
 
 ---
-
-## 📊 GitHub Statistics  
-
-<p align="center">  
-  <a href="https://github.com/RaoufAddeche" target="_blank">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RaoufAddeche&bg_color=00000000&hide_border=true&hide_title=true&show_icons=true&count_private=true" alt="Statistiques GitHub">
-  </a>  
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufAddeche&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&langs_count=8" alt="Langages les plus utilisés">
-  </a>  
-</p>  
