@@ -4,14 +4,7 @@
   <img src="https://i.imgur.com/ImgMbNV.gif" alt="GitHub Banner" width="100%">
 </div>
 
-<picture>
-  <!-- Dark theme -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/ImgMbNV.gif">
-  <!-- Light theme -->
-  <source media="(prefers-color-scheme: light)" srcset="https://YOUR-LIGHT-BANNER.gif">
-  <!-- Fallback -->
-  <img alt="GitHub Banner" src="https://YOUR-LIGHT-BANNER.gif" width="100%">
-</picture>
+<div align="center" style="background-color:#0d1117; padding:5px; border-radius:8px;"> <img src="https://i.imgur.com/ImgMbNV.gif" alt="GitHub Banner" width="100%"> </div>
 
 
 ---
