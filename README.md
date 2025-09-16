@@ -4,8 +4,11 @@
   <img src="https://i.imgur.com/ImgMbNV.gif" alt="GitHub Banner" width="100%">
 </div>
 
-<div align="center" style="background-color:#0d1117; padding:5px; border-radius:8px;"> <img src="https://i.imgur.com/ImgMbNV.gif" alt="GitHub Banner" width="100%"> </div>
-
+<p align="center">
+I design and build <b>AI agents</b> and <b>Data/AI applications</b> in Python,  
+ranging from data processing to cloud deployment.  
+My goal: turning data into smart, concrete solutions.
+</p>
 
 ---
 
