@@ -1,32 +1,32 @@
-<h1 align="center">Raouf Addeche — Data & IA Developer</h1>
+<h1 align="center">Raouf Addeche — Data & AI Developer</h1>
 
 <div align="center" style="background-color:#0d1117; padding:5px; border-radius:8px;">
-  <img src="https://i.imgur.com/ImgMbNV.gif" alt="Bannière GitHub" width="100%">
+  <img src="https://i.imgur.com/ImgMbNV.gif" alt="GitHub Banner" width="100%">
 </div>
 
 <p align="center">
-Je conçois et développe des <b>agents IA</b> et des <b>applications Data/IA</b> en Python, 
-allant du traitement de données au déploiement cloud.  
-Mon objectif : transformer la donnée en solutions concrètes et intelligentes.
+I design and build <b>AI agents</b> and <b>Data/AI applications</b> in Python,  
+ranging from data processing to cloud deployment.  
+My goal: turning data into smart, concrete solutions.
 </p>
 
 ---
 
-## 🚀 À propos
+## 🚀 About Me
 
-- Formation en **Développement Data/IA** (École Microsoft by Simplon).  
-- Compétences en **Python, SQL, Machine Learning, APIs** et **déploiement cloud (Azure/AWS)**.  
-- Intérêt particulier pour la **création d’agents IA** (LangChain, LangGraph, MCP) et les systèmes **RAG** (Retrieval-Augmented Generation).  
-- En apprentissage continu, motivé par les projets qui relient **analyse de données** et **intelligence artificielle appliquée**.  
+- Training in **Data/AI Development** (Microsoft by Simplon).  
+- Skilled in **Python, SQL, Machine Learning, APIs** and **cloud deployment (Azure/AWS)**.  
+- Strong focus on **AI agent development** (LangChain, LangGraph, MCP) and **RAG systems** (Retrieval-Augmented Generation).  
+- Continuously learning and motivated by projects bridging **data analysis** and **applied artificial intelligence**.  
 
 ---
 
-## 🛠️ Compétences techniques
+## 🛠️ Technical Skills
 
-**Langages & Data Science**  
+**Languages & Data Science**  
 Python • SQL • Pandas • NumPy • scikit-learn  
 
-**IA & Agents**  
+**AI & Agents**  
 LangChain • LangGraph • MCP • NLP • RAG  
 
 **Backend / APIs**  
@@ -35,38 +35,27 @@ FastAPI • Django • OpenAPI • Auth • REST
 **Cloud & DevOps**  
 Azure (Data Lake, Container Apps) • AWS (S3/Lambda) • Docker  
 
-**Bases de données**  
+**Databases**  
 PostgreSQL • MySQL • SQLite • FAISS/Chroma (vector stores)  
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <a href="https://github.com/RaoufAddeche" target="_blank">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=RaoufAddeche&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="Statistiques GitHub">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufAddeche&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab" alt="Langages les plus utilisés">
-  </a>
-</p>
 
 ---
 
 ## 📬 Contact
 
-- Email : <a href="mailto:addeche.raouf@gmail.com">addeche.raouf@gmail.com</a>  
-- LinkedIn : <a href="https://www.linkedin.com/in/raouf-addeche-706157113" target="_blank">raouf-addeche-706157113</a>  
+- Email: <a href="mailto:addeche.raouf@gmail.com">addeche.raouf@gmail.com</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/raouf-addeche-706157113" target="_blank">raouf-addeche-706157113</a>  
+
+---
 
 ## 💻 Tech Stack  
 
-### OS & Environnements  
+### OS & Environments  
 <p align="center">  
   <img src="https://img.shields.io/badge/Linux-fcc624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux badge">  
   <img src="https://img.shields.io/badge/Windows-0078d4?logo=windows&logoColor=white&style=for-the-badge" alt="Windows badge">  
 </p>  
 
-### Outils & Cloud  
+### Tools & Cloud  
 <p align="center">  
   <img src="https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white&style=for-the-badge" alt="Git badge">  
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">  
@@ -74,7 +63,7 @@ PostgreSQL • MySQL • SQLite • FAISS/Chroma (vector stores)
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="Azure badge">  
 </p>  
 
-### Langages & Data Science  
+### Languages & Data Science  
 <p align="center">  
   <img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=for-the-badge" alt="Python badge">  
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL badge">  
@@ -85,7 +74,7 @@ PostgreSQL • MySQL • SQLite • FAISS/Chroma (vector stores)
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch badge">  
 </p>  
 
-### Frameworks & Développement Web  
+### Frameworks & Web Development  
 <p align="center">  
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django badge">  
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI badge">  
@@ -93,3 +82,14 @@ PostgreSQL • MySQL • SQLite • FAISS/Chroma (vector stores)
 </p>  
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/RaoufAddeche" target="_blank">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=RaoufAddeche&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoufAddeche&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab" alt="Most used languages">
+  </a>
+</p>
